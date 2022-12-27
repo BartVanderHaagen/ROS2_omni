@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>ROS2_omni</name>
+  <name>ros2_omni</name>
   <version>0.0.0</version>
   <description>mecanum wheel based ROS2 robot</description>
   <maintainer email="b.vanderhaagen76@gmail.com">Bart van der Haagen</maintainer>

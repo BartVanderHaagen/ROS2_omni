@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(ROS2_omni)
+project(ros2_omni)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
