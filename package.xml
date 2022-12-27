@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>my_bot</name>
+  <name>ROS2_omni</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">MY NAME</maintainer>
-  <license>TODO: License declaration</license>
+  <description>mecanum wheel based ROS2 robot</description>
+  <maintainer email="b.vanderhaagen76@gmail.com">Bart van der Haagen</maintainer>
+  <license>Free for Use</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
